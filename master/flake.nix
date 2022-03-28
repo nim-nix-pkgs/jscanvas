@@ -11,7 +11,6 @@
   inputs.src-jscanvas-master.ref   = "refs/heads/master";
   inputs.src-jscanvas-master.owner = "planetis-m";
   inputs.src-jscanvas-master.repo  = "jscanvas";
-  inputs.src-jscanvas-master.dir   = "";
   inputs.src-jscanvas-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
