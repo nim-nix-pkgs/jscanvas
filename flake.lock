@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656297796,
-        "narHash": "sha256-N8OZCUi1QIG66gITNCHrSDxiqIAZwLaVvcPVF92T3tU=",
+        "lastModified": 1656300963,
+        "narHash": "sha256-pJ7e4XVvJIU3MP8Yo7mI9s5WUqvfy/y9pWd+eKgznKo=",
         "owner": "nim-nix-pkgs",
         "repo": "jscanvas",
-        "rev": "51785a79ee1eada9cf9c02ab4d1f1e4609088e8d",
+        "rev": "a9a0c4989f12bd21ba008e0e8373f830e8e44d1f",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1656297796,
-        "narHash": "sha256-N8OZCUi1QIG66gITNCHrSDxiqIAZwLaVvcPVF92T3tU=",
+        "lastModified": 1656300963,
+        "narHash": "sha256-pJ7e4XVvJIU3MP8Yo7mI9s5WUqvfy/y9pWd+eKgznKo=",
         "owner": "nim-nix-pkgs",
         "repo": "jscanvas",
-        "rev": "51785a79ee1eada9cf9c02ab4d1f1e4609088e8d",
+        "rev": "a9a0c4989f12bd21ba008e0e8373f830e8e44d1f",
         "type": "github"
       },
       "original": {
